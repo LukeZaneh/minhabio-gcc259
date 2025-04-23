@@ -7,6 +7,7 @@ Olá, me chamo **Lucas Carvalho**, sou *estudante* de Ciência da Computação n
 **Formação**:<br/>
 1. CEFET-MG (2018-2021)
 2. UFLA(2021-2025)
+
 **Cursos**:<br/>
 - Curso de `java`
 - Curso de `javascript`
