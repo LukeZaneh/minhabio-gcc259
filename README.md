@@ -17,4 +17,7 @@ Olá, me chamo **Lucas Carvalho**, sou *estudante* de Ciência da Computação n
 + [LinkedIn](www.linkedin.com/in/lucas-carvalho-781886220)
 + [GitHub](https://github.com/LukeZaneh)
 
+> [!IMPORTANT]
+> ![Logo do Projeto Software Livre Brasil](C:\Users\lucas\Downloads\images.png)
+
 > A tecnologia move o mundo :+1: 
