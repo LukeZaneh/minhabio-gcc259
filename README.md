@@ -14,7 +14,7 @@ Olá, me chamo **Lucas Carvalho**, sou *estudante* de Ciência da Computação n
 - Curso de `python`
 
 ## Links Importantes<br/>
-+ [LinkedIn](www.linkedin.com/in/lucas-carvalho-781886220)
++ [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-781886220)
 + [GitHub](https://github.com/LukeZaneh)
 
 > [!IMPORTANT]
